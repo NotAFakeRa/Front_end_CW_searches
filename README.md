@@ -13,7 +13,7 @@ It takes in the total number of templates, and computes (amongst other things) t
 
 To determine the Gaussianity of each search job, the Kolmogorov-Smirnoff (K-S) test for normailty is applied to each search job, using the <a href="https://github.com/NotAFakeRa/Front_end_CW_searches/blob/master/ksTest.py">ksTest.py</a> K-S test Python script.
 
-An example of running the K-S test on a job that is pure Gaussian noise can be seen here:
+An example of running <code>ksTest.py</code> on a job that is pure Gaussian noise can be seen here:
 
 <img src="https://github.com/NotAFakeRa/Front_end_CW_searches/blob/master/ksStat_P0_0.png" width="600">
 
