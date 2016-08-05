@@ -18,5 +18,9 @@ An example of running <code>ksTest.py</code> on a job that is pure Gaussian nois
 <img src="https://github.com/NotAFakeRa/Front_end_CW_searches/blob/master/ksStat_P0_0.png" width="600">
 
 
+For comparison, here is a search job that isn't Gaussian:
+
+<img src="https://github.com/NotAFakeRa/Front_end_CW_searches/blob/master/ksStat_5374.png" width="600">
+
 
 A real problem with the main script is that this was written while Django 1.7 was the latest thing. The way <a href="https://docs.djangoproject.com/en/1.8/topics/templates/">templates are handled was completely overhauled in 1.8 and later</a>, leading to backwards imcompatibility. However, all the other scripts are very useful.
