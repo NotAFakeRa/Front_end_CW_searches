@@ -3,7 +3,7 @@ This is a front end to display the results of running the continuous gravitation
 
 The main output is a web page, using a really basic application of the Django web framework.
 
-The root file is <a href="https://github.com/NotAFakeRa/Front_end_CW_searches/blob/master/createHTML.py">createHTML.py</a>, which calls a whole lot of other scripts. 
+The root file is <a href="https://github.com/NotAFakeRa/Front_end_CW_searches/blob/master/createHTML.py"><code>createHTML.py</code></a>, which calls a whole lot of other scripts. 
 
 A couple of scripts, <a href="https://github.com/NotAFakeRa/Front_end_CW_searches/blob/master/plotUpperLimits.py">plotUpperLimits.py</a> and <a href="https://github.com/NotAFakeRa/Front_end_CW_searches/blob/master/readOptimalStretch.py">readOptimalStretch.py</a>  just read basic information to display as an overview. 
 
